@@ -1,0 +1,24 @@
+{
+  "name": "api-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mary-clayton/API-I.git"
+  },
+  "author": "Mary Clayton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mary-clayton/API-I/issues"
+  },
+  "homepage": "https://github.com/mary-clayton/API-I#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
